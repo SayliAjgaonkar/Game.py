@@ -1,2 +1,2 @@
-# Game.py
+Snake, Water, Gun Game
 beginner Friendly Game Develop in PYTHON 
